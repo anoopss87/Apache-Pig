@@ -1,0 +1,16 @@
+Pitcher	466
+Relief_pitcher	261
+Starting_pitcher	209
+Outfielder	125
+First_baseman	93
+Second_baseman	91
+Third_baseman	91
+Left_fielder	88
+Catcher	87
+Shortstop	83
+Center_fielder	76
+Right_fielder	74
+Infielder	47
+Designated_hitter	33
+Setup_pitcher	1
+Hitting_Coach	1
